@@ -1,4 +1,4 @@
-# asciidoctor_sample003
+# asciidoctor_sample006
 
 asciidoctor-pdfのサンプルです。
 
