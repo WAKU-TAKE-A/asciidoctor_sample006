@@ -11,8 +11,9 @@
 :revnumber: 1.0版
 :version-label:
 // ディレクトリやテーマファイルなどの設定
-:imagesdir: ./img
 :pdf-style: my-theme.yml
+:imagesdir: ./img
+//:pdf-fontsdir: ../fonts
 // 背景設定
 :title-page-background-image: image:title-page-back.png[]
 //:front-cover-image: image:title-page.pdf.pdf[]
