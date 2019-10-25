@@ -8,7 +8,7 @@
 :doctype: book
 :author: Author
 :revdate: 2019年10月18日
-:revnumber: 1.0版
+:revnumber: 1.1版
 :version-label:
 // ディレクトリやテーマファイルなどの設定
 :pdf-style: my-theme.yml
