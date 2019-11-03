@@ -11,7 +11,7 @@
 :revnumber: 1.2版
 :version-label:
 // ディレクトリやテーマファイルなどの設定
-:pdf-style: my-theme.yml
+:pdf-style: my-theme2.yml
 :imagesdir: ./img
 //:pdf-fontsdir: ../fonts
 // 背景設定
