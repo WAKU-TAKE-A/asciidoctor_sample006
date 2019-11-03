@@ -7,8 +7,8 @@
 :lang: ja
 :doctype: book
 :author: Author
-:revdate: 2019年10月18日
-:revnumber: 1.1版
+:revdate: 2019年11月3日
+:revnumber: 1.2版
 :version-label:
 // ディレクトリやテーマファイルなどの設定
 :pdf-style: my-theme.yml
@@ -163,7 +163,7 @@ https://www.canva.com/[Canva] というサイトを見つけました。今回�
 
 * 新規登録してログインします
 * [デザインを作成] ⇒ 分野を選択 ⇒ 気に入ったテンプレートを選択 ⇒ コメントや背景などを編集変更することができます +
-image:canva001.jpg[]
+image:canva001.jpg[width=600]
 * 保存は基本的に自動保存ですが、ファイル ⇒ 保存 で手動保存することもできます
 * 上の方にある image:meisyou.jpg[] の名称未設定の部分を編集して、名前を変更しておくと再編時に分かりやすいです
 * 再編集は、ホーム ⇒ すべてのデザイン で見つけることができます
