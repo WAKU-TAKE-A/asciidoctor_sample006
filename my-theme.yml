@@ -1,0 +1,45 @@
+extends: default
+font:
+  catalog:
+    merge: true 
+    KaiGen Gothic JP:
+      normal: GEM_FONTS_DIR/KaiGenGothicJP-Regular.ttf
+      bold: GEM_FONTS_DIR/KaiGenGothicJP-Bold.ttf
+      italic: GEM_FONTS_DIR/KaiGenGothicJP-Regular-Italic.ttf
+      bold_italic: GEM_FONTS_DIR/KaiGenGothicJP-Bold-Italic.ttf
+    M+ 1p Fallback: GEM_FONTS_DIR/mplus1p-regular-fallback.ttf
+    Noto Emoji: GEM_FONTS_DIR/notoemoji-subset.ttf
+  fallbacks: [M+ 1p Fallback, Noto Emoji]
+base:
+  font_family: KaiGen Gothic JP
+#------
+# Title Page Section
+#------
+title_page:
+  align: center
+  logo:
+    top: 10%
+    align: right
+  title:
+    top: 60%
+    font_size: $heading_h1_font_size
+    font_stye: bold
+    font_color: #FFFFFF
+    line_height: 0.9
+  subtitle:
+    font_size: $heading_h3_font_size
+    font_style: bold
+    font_color: #FFFFFF
+    line_height: 1
+  authors:
+    font_size: $base_font_size_large
+    font_style: normal
+    font_color: #FFFFFF
+    margin_top: $base_font_size * 1.25
+  revision:
+    font_size: $base_font_size
+    font_style: normal
+    font_color: #FFFFFF
+    margin_top: $base_font_size * 1.25
+    # バージョンと日付を行替え
+    delimiter: "<br/>"
